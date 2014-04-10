@@ -15,7 +15,7 @@ This patch fixes the following issues in the OnApp WHMCS integration:
 #### How do I install the patch?
 
 1. Backup your WHMCS installation
-2. Drag the onappVPS.php file to your `public_html/modules/servers/onappVPS` directory
+2. Drag the `onappVPS.php` file to your `public_html/modules/servers/onappVPS` directory
 
 #### Disclaimer
 
